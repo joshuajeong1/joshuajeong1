@@ -2,21 +2,20 @@
 
 ---
 
-## What I Know
-**Languages & Frameworks**  
+## what i know
+
 `Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel`
 
 ---
 
-## Currently Learning
+## what im learning
 `Docker` · `Unity` · `Spring Boot` · `GitLab`
 
 ---
 
-## Languages I Speak
-- 🇺🇸 **English** – Fluent  
-- 🇰🇷 **Korean** – Fluent  
-- 🇯🇵 **Japanese** – Intermediate  
+## what i speak
+🇺🇸 **English (Fluent)** · 🇰🇷 **Korean (Fluent)** · 🇯🇵 **Japanese (Intermediate)**
+
 
 ---
 
