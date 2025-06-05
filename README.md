@@ -1,10 +1,28 @@
-## welcome to josh jeong's github page
+# josh jeong's github page
 
-## what i know: python, java, c++, react.js, c#, html, css, sql, php laravel
-## what im learning: docker, unity, spring boot, gitlab
-## what i speak: english (fluent), korean (fluent), japanese (intermediate)
+---
 
-## discord @lsr
+## What I Know
+**Languages & Frameworks**  
+`Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel`
+
+---
+
+## Currently Learning
+`Docker` · `Unity` · `Spring Boot` · `GitLab`
+
+---
+
+## Languages I Speak
+- 🇺🇸 **English** – Fluent  
+- 🇰🇷 **Korean** – Fluent  
+- 🇯🇵 **Japanese** – Intermediate  
+
+---
+
+ Discord: `@lsr`
+
+---
 
 <!--
 **joshuajeong1/joshuajeong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
