@@ -1,4 +1,10 @@
-## Hi there 👋
+## welcome to josh jeong's github page
+
+## what i know: python, java, c++, react.js, c#, html, css, sql, php laravel
+## what im learning: docker, unity, spring boot, gitlab
+## what i speak: english (fluent), korean (fluent), japanese (intermediate)
+
+## discord @lsr
 
 <!--
 **joshuajeong1/joshuajeong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
