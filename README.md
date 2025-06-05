@@ -1,7 +1,3 @@
-# josh jeong's github page
-
----
-
 ## what i know
 
 `Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel`
