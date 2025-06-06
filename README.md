@@ -5,7 +5,7 @@
 ---
 
 ## what im learning
-`Docker` · `Unity` · `Spring Boot` · `GitLab`
+`Docker` · `Unity` · `Spring Boot` · `GitLab` · `Tailwind` · `Vite`
 
 ---
 
