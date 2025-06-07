@@ -1,6 +1,6 @@
 ## what i know
 
-`Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel`
+`Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel` · `ASP .NET`
 
 ---
 
