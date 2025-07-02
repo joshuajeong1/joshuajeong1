@@ -1,11 +1,11 @@
 ## what i know
 
-`Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel` · `ASP .NET` · `Tailwind` · `Spring Boot`
+`Python` · `Java` · `C++` · `C#` · `React.js` · `HTML` · `CSS` · `SQL` · `PHP Laravel` · `ASP .NET` · `Tailwind` · `Spring Boot` · `Docker`
 
 ---
 
 ## what im learning
-`Docker` · `Unity` · `GitLab` · `Postgresql` · `Prisma` · `Express.js`
+`Unity` · `GitLab` · `Postgresql` · `Prisma` · `Express.js` · `TypeScript` · `Next.js`
 
 ---
 
